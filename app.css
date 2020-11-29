@@ -4,21 +4,33 @@
     margin: auto;
     width: 50%;
     padding: 10px;
+    background-color: lightgray;
+    border-radius: 8px;
 }
 
 .header {
-    color: rgb(0, 51, 202);
+    color: navy;
+    background-color: lightslategray;
+    border-radius: 10px;
+    text-align: center;
+    font-family: "Satisfy";
+    font-size: x-large
 }
 
-.headers-two {
-    color: rgb(40, 68, 226)}
+h2 {
+    color: navy;
+    font-family: "Satisfy"
+}
+
 
 .paragraph {
     color: black
 }
 
-img {
-    margin: auto;
+#photo {
+    margin: 50px 200px 10px 200px;
     width: 50%;
     border-radius: 8px;
 }
+
+
