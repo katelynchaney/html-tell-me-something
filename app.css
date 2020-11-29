@@ -1,0 +1,19 @@
+.container {
+    max-width: 750px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.header {
+    color: rgb(6, 66, 247);
+}
+
+.headers-two {
+    color: rgb(70, 69, 69)
+}
+
+.paragraph {
+    color: black
+}
