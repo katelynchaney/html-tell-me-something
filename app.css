@@ -7,13 +7,18 @@
 }
 
 .header {
-    color: rgb(6, 66, 247);
+    color: rgb(0, 51, 202);
 }
 
 .headers-two {
-    color: rgb(70, 69, 69)
-}
+    color: rgb(40, 68, 226)}
 
 .paragraph {
     color: black
+}
+
+img {
+    margin: auto;
+    width: 50%;
+    border-radius: 8px;
 }
