@@ -4,7 +4,6 @@
     margin: auto;
     width: 50%;
     padding: 10px;
-    background-color: lightgray;
     border-radius: 8px;
 }
 
@@ -14,18 +13,17 @@
     border-radius: 10px;
     text-align: center;
     font-family: "Satisfy";
-    font-size: x-large
+    font-size: x-large;
 }
 
 h2 {
     color: navy;
-    font-family: "Satisfy"
+    font-family: "Satisfy";
+    background-color: lightslategray;
+    text-align: center;
+    border-radius: 10px;
 }
 
-
-.paragraph {
-    color: black
-}
 
 #photo {
     margin: 50px 200px 10px 200px;
@@ -33,4 +31,13 @@ h2 {
     border-radius: 8px;
 }
 
+body {
+    background-color: lightgrey;
+}
 
+#chaney {
+    margin-inline-start: 46%;
+    border-radius: 50%;
+    width: 150px;
+    height:250px;
+}
